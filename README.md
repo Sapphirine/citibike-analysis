@@ -1,4 +1,5 @@
-# CitiBike--Analysis
+# Advanced Big Data Analytics - Final Project Proposal
+## NYC Citibike System Data Analysis
 
 ### Proposal
 
