@@ -7,6 +7,6 @@
   - Most common rides each month (by station and by neighbourhoods)
   - Estimating deficiency or surplus of bikes in neighbourhoods based on usage statistics (available bikes and used bike).
 
-2. Creating a Regression Model to correlate weather impact on citibike activity and forecast future usage.
+2. Creating a Regression Model to correlate weather (daily avg. temperature, precipitation, snow depth) impact on citibike activity and forecast future usage.
 
 3. Analysis to compute avg. travel time from one station to another based on.
