@@ -1,16 +1,22 @@
-#NYC CitiBike Data Analysis
+\begin{center}
+\Large{\textbf{NYC CitiBike Data Analysis}}
 
-##Advanced Big Data Analytics
+\large{Advanced Big Data Analytics}
+
+\large{Project Proposal}
+
 
 Bahul Jain - bkj2111\\  
 Gaurang Sadekar - gss2147
 
-### Introduction
+\end{center}
+
+# Introduction
 
 We will be working with [CitiBike Data](https://www.citibikenyc.com/system-data)
 and perform different types of analysis to understand Citi bike usage and trips across different areas of New York City. We will also use this data to build prediction models which give insight into the usage of Citi bikes in relation to external factors.
 
-### Goals
+# Goals
 
 1. Create a visualization showing the favorite neighborhoods based on trip information of CitiBike users.
     - Estimating the requirement of bike stations in neighborhoods.
@@ -19,7 +25,7 @@ and perform different types of analysis to understand Citi bike usage and trips 
 
 2. Creating a Regression Model to correlate weather (daily average temperature, precipitation, snow depth) impact on CitiBike activity and forecast future usage.
 
-### Data
+# Data
 The data we will be working with is publicly available for use at [CitiBike Data](https://www.citibikenyc.com/system-d  ata).  
 CitiBike Trip data includes the following fields:
 
@@ -39,12 +45,12 @@ This is data is clean and anonymized for user privacy, and does not include any 
 
 The system data also includes CitiBike membership data, which has rich per day information about memberships, ride numbers and ride durations.
 
-#### Sources
+### Sources
 1. [CitiBike Data](https://www.citibikenyc.com/system-data)
 2. [National Climatic Data Center](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094728/detail)
 
 
-### Tools & Languages
+# Tools & Languages
 
 1. Spark
 2. MLlib
