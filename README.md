@@ -2,7 +2,7 @@
 
 ##Advanced Big Data Analytics
 
-Bahul Jain - bkj2111\\  
+Bahul Jain - bkj2111  
 Gaurang Sadekar - gss2147
 
 ### Introduction
